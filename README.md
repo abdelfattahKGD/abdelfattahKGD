@@ -29,7 +29,7 @@
 <div align="center">
 
 ### ⚙️ Core Arsenal
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,bash,linux,cmake,make,vscode,arm&theme=dark&perline=10" alt="Core Skills" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,bash,linux,cmake,vscode,arm&theme=dark&perline=10" alt="Core Skills" />
 
 ### 🎯 Embedded Specialization
 <img src="https://img.shields.io/badge/🔹-STM32-00f5d4?style=flat-square"/>
@@ -108,7 +108,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e17)](https://www.linkedin.com/in/abdelfattah-khaled)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0e17)](https://wa.me/1150076026)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e17)](mailto:abdelfattahk719@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e17)](https://github.com/abdelfattahKGD)
 
 <br/><br/>
 
