@@ -1,7 +1,7 @@
 <!-- 🎭 DYNAMIC HERO SECTION -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=800&color=00f5d4&center=true&vCenter=true&width=700&height=70&lines=⚡+ABDELFATTAH+⚡;🔧+Embedded+System+Engineer;🧠+C+%7C+C+++%7C+Python+%7C+ROS2;🚀+Building+Intelligent+Hardware" alt="Typing Effect Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=800&color=00f5d4&center=true&vCenter=true&width=700&height=70&lines=⚡+ABDELFATTAH+⚡;+Embedded+System+Engineer;🧠+C+%7C+C+++%7C+Python+%7C+ROS2;🚀+Building+Intelligent+Hardware" alt="Typing Effect Header" />
 
 <br/>
 
@@ -50,7 +50,7 @@
 
 <br/><br/>
 
-<!-- 🌀 Animated Tech Orbit -->
+<!-- Simple Glow Line -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,50:00f5d4,100:transparent&section=footer" width="100%" alt="Glow Line" />
 
 </div>
@@ -99,7 +99,7 @@
 
 <br/>
 
-<!-- 🌀 Animated Progress Divider -->
+<!-- Progress Bar -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:transparent,30:00f5d4,70:7b2cbf,100:transparent&animation=fadeIn&section=footer" width="100%" alt="Progress Bar" />
 
 </div>
@@ -145,9 +145,6 @@
 
 <br/>
 
-<!-- 🌈 Rainbow Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:ff0080,20:ff8c00,40:40e0d0,60:7b2cbf,80:00f5d4,100:ff0080&animation=fadeIn&section=footer" width="100%" alt="Rainbow Divider" />
-
 </div>
 
 ---
@@ -177,9 +174,9 @@
 
 <pre style="color: #00f5d4; font-family: 'Courier New', monospace; font-size: 9px; line-height: 1.2;">
    ╔══════════════════════════════════════════════════════╗
-   ║  ⚡  ABDELFATTAH  |  EMBEDDED SYSTEMS ENGINEER  ⚡  ║
+   ║    ABDELFATTAH  |  EMBEDDED SYSTEMS ENGINEER  ⚡  ║
    ║  ────────────────────────────────────────────────  ║
-   ║  🔧  C • C++ • Python • STM32 • ROS2 • IoT  🔧    ║
+     🔧  C • C++ • Python • STM32 • ROS2 • IoT  🔧    ║
    ║  🧠  Firmware • RTOS • PCB • Automation • AI   🧠  ║
    ║  🚀  "Hardware is my canvas, code is my brush"  🚀  ║
    ╚══════════════════════════════════════════════════════╝
@@ -195,7 +192,7 @@
 
 <br/><br/>
 
-<!-- 🌟 Animated Sparkle Footer -->
+<!-- Simple Sparkle Footer -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,25:00f5d4,50:ffffff,75:00f5d4,100:transparent&animation=fadeIn&section=footer" width="100%" alt="Sparkle Line" />
 
 </div>
