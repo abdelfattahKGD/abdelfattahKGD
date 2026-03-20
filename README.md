@@ -32,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,python,git,bash,linux,cmake,vscode&theme=dark&perline=10" alt="Core Skills" />
 
 ### 🎯 Embedded Specialization
-<img src="https://img.shields.io/badge/🔹-STM32-00f5d4?style=flat-square"/>
+<img src="https://img.shields.io/badge/🔹-STM32-00f5d4?style=flat-square" color="8339B3"/>
 <img src="https://img.shields.io/badge/🔹-FreeRTOS-00f5d4?style=flat-square"/>
 <img src="https://img.shields.io/badge/🔹-ROS2-00f5d4?style=flat-square"/>
 <img src="https://img.shields.io/badge/🔹-KiCad-00f5d4?style=flat-square"/>
@@ -42,10 +42,6 @@
 <img src="https://img.shields.io/badge/🔹-PCB_Design-00f5d4?style=flat-square"/>
 
 <br/><br/>
-
-<!-- Simple Glow Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,50:4E1380,100:transparent&section=footer" width="100%" alt="Glow Line" />
-
 </div>
 
 ---
