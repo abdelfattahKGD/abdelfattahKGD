@@ -86,4 +86,5 @@
 <div align="center">
   <!-- استخدمت رابط الصورة المباشر لضمان ظهور الـ Bottom Line -->
   <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/Coffee%20in%20rain___.gif?raw=true" alt="Bottom Line" width="100%" />
+   <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/v1.gif?raw=true" alt="Bottom Line" width="100%" />
 </div>
