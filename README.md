@@ -1,14 +1,14 @@
 <div align="right">
   <p>
-    <h1 align="left" style="margin-top: -85px; color: white; padding-left: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    ABDELFATTAH <br>
-    <span style="font-size: 18px; font-weight: 300; opacity: 0.8;">Embedded Systems Engineer | Designer</span>
-  </h1>
     <a href="#about"><img src="https://img.shields.io/badge/01.%20Home-000000?style=flat&logoColor=white" /></a> &nbsp;&nbsp;
     <a href="#tech"><img src="https://img.shields.io/badge/02.%20Stack-000000?style=flat&logoColor=white" /></a> &nbsp;&nbsp;
     <a href="#stats"><img src="https://img.shields.io/badge/03.%20Stats-000000?style=flat&logoColor=white" /></a> &nbsp;&nbsp;
     <a href="#connect"><img src="https://img.shields.io/badge/04.%20Contact-000000?style=flat&logoColor=white" /></a>
   </p>
+  <h1 align="left" style="margin-top: -85px; color: white; padding-left: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    ABDELFATTAH <br>
+    <span style="font-size: 5px; font-weight: 300; opacity: 0.8;">Embedded Systems Engineer | Designer</span>
+  </h1>
 </div>
 
 <div align="center" id="home">
