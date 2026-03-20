@@ -69,7 +69,7 @@
 <br><br>
 
 <div id="connect">
-  <h2><img src="https://img.icons8.com/ios-filled/50/000000/image.png" width="20"/> 04. SHOWCASE</h2>
+  <h2><img src="https://img.icons8.com/ios-filled/50/000000/image.png" width="20"/> 04. Hello World</h2>
   <table border="0" cellpadding="0" cellspacing="10" width="100%">
     <tr>
       <td width="50%"><img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/Coffee%20in%20rain___.gif?raw=true" width="100%" style="filter: grayscale(100%); border: 1px solid #000; border-radius: 10px;"/></td>
@@ -85,9 +85,4 @@
   <a href="https://linkedin.com/in/abdelfattah-khaled"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abdelfattahk719@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/1150076026"><img src="https://img.shields.io/badge/WHATSAPP-000000?style=flat&logo=whatsapp&logoColor=white" /></a>
-</div>
-
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" style="filter: invert(1); opacity: 0.1;"/>
 </div>
