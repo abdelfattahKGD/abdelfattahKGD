@@ -1,109 +1,106 @@
-<!-- Header & Background Home -->
+<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=ABDELFATTAH&fontSize=60&fontColor=FFFFFF&fontAlignY=40&desc=Embedded%20System%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:000000,100:a371f7&text=ABDELFATTAH&fontSize=70&fontColor=FFFFFF&fontAlignY=45&desc=Embedded%20System%20Engineer&descSize=24&descColor=BD93F9&descAlignY=65" width="100%"/>
 </div>
 
-<!-- Navigation Bar -->
+<!-- Modern UI/UX Navbar -->
 <p align="center">
-  <a href="#about-me"><b>About Me</b></a> • 
-  <a href="#technical-forge"><b>Skills</b></a> • 
-  <a href="#matrix-stats"><b>Diagnostics</b></a> • 
-  <a href="#connect-with-me"><b>Connect</b></a>
+  <kbd>&nbsp; <a href="#about"><b>🏠 Home</b></a> &nbsp;</kbd> | 
+  <kbd>&nbsp; <a href="#skills"><b>🛠️ Tech Stack</b></a> &nbsp;</kbd> | 
+  <kbd>&nbsp; <a href="#stats"><b>📈 Analytics</b></a> &nbsp;</kbd> | 
+  <kbd>&nbsp; <a href="#connect"><b>🤝 Connect</b></a> &nbsp;</kbd>
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=abdelfattahKGD">
-    <img src="https://komarev.com/ghpvc/?username=abdelfattahKGD&label=Profile%20views&color=a371f7&style=flat-square" alt="Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=abdelfattahKGD&label=ACTIVE%20SESSION&color=BD93F9&style=for-the-badge&logo=github" alt="Views" />
 </p>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" style="border-radius: 15px;"/>
 
-<br id="about-me">
+<br id="about">
 
-## ✨ About Me
-
-> I am a passionate **Embedded Systems Engineer** dedicated to bridging the gap between hardware and software. With a strong foundation in real-time systems and robotics, I specialize in crafting efficient, scalable solutions for complex technical challenges. I thrive at the intersection of logic and creativity—whether I'm optimizing low-level code or designing intricate 3D models.
-
----
-
-<br id="technical-forge">
-
-## 🛠️ Technical Forge
-
-<table border="0" align="center" width="100%">
-  <tr align="center">
-    <td>
-      <b>Core Languages</b><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" width="45" height="45"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="45" height="45"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="45" height="45"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" width="45" height="45"/>
+<!-- Section: About Me (Modern Card Style) -->
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h2>🚀 About the Engineer</h2>
+      <p><b>Embedded Systems Maven</b> focused on architecting high-performance hardware-software ecosystems. Specialized in real-time processing and robotics automation.</p>
+      <ul>
+        <li>🎯 <b>Current Goal:</b> Mastering ROS2 Autonomous Navigation.</li>
+        <li>💡 <b>Philosophy:</b> Code efficiently, design elegantly.</li>
+        <li>⚡ <b>Core Focus:</b> Low-level optimization & System Integration.</li>
+      </ul>
     </td>
-    <td>
-      <b>Robotics & Design</b><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" title="ROS2" width="45" height="45"/>&nbsp;
-      <img src="https://img.icons8.com/color/48/000000/autodesk-autocad.png" title="Solidworks/CAD" width="45" height="45"/>&nbsp;
-      <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-soft-skills-human-resources-flat-juicy-fish.png" title="Soft Skills" width="45" height="45"/>
-    </td>
-  </tr>
-  <tr align="center">
-    <td colspan="2">
-      <br><b>DevOps & Tools</b><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" width="45" height="45"/>&nbsp;
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" width="45" height="45"/>&nbsp;
-      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" title="VS Code" width="45" height="45"/>&nbsp;
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="CI/CD" width="45" height="45"/>
+    <td width="35%" align="right">
+      <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/v1.gif?raw=true" width="100%" style="border-radius: 20px; border: 2px solid #a371f7;"/>
     </td>
   </tr>
 </table>
 
-<br id="matrix-stats">
+<br id="skills">
 
-## 📊 Matrix Analytics & Diagnostics
+<!-- Section: Tech Stack & Top Languages (Side by Side) -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ The Tech Forge</h3>
+      <b>Languages</b><br>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
+      <b>Robotics & CAD</b><br>
+      <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+      <img src="https://img.shields.io/badge/Solidworks-DA1F26?style=for-the-badge&logo=solidworks&logoColor=white" /><br>
+      <b>DevOps</b><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    </td>
+    <td width="50%" align="right">
+      <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdelfattahKGD&layout=compact&theme=tokyonight&border_radius=15" />
+    </td>
+  </tr>
+</table>
 
+<br id="stats">
+
+<!-- Section: Modern Stats -->
+<h3>📊 System Diagnostics</h3>
 <p align="center">
-  <a href="https://github.com/abdelfattahKGD">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdelfattahKGD&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=abdelfattahKGD&theme=monokai&hide_border=true&cache_seconds=86400" alt="Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=abdelfattahKGD&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Trophies" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdelfattahKGD&show_icons=true&theme=tokyonight&border_radius=15" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelfattahKGD&theme=tokyonight&border_radius=15" />
 </p>
 
 <div align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelfattahKGD&theme=monokai&radius=10" alt="Activity Graph" width="100%" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelfattahKGD&theme=tokyonight&area=true&hide_border=true&radius=15" />
 </div>
 
-<br id="connect-with-me">
+<br id="connect">
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="www.linkedin.com/in/abdelfattah-khaled" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> 
-  <a href="https://wa.me/1150076026" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> 
-  <a href="mailto:abdelfattahk719@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a>
-</p>
+<!-- Section: Connect -->
+<div align="center">
+  <h3>🔗 Terminal Uplink</h3>
+  <a href="https://linkedin.com/in/abdelfattah-khaled"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/1150076026"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:abdelfattahk719@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter" />
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter" width="70%" />
 </p>
 
 <br>
 
-<!-- Bottom Gallery Row: Coffee and V1 side by side -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<!-- Footer Gallery -->
+<table border="0" cellpadding="0" cellspacing="5" width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/Coffee%20in%20rain___.gif?raw=true" alt="Coffee in Rain" width="100%" style="border-radius:10px;"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/v1.gif?raw=true" alt="V1 Animation" width="100%" style="border-radius:10px;"/>
-    </td>
+    <td width="50%"><img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/Coffee%20in%20rain___.gif?raw=true" width="100%" style="border-radius:15px;"/></td>
+    <td width="50%"><img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/v1.gif?raw=true" width="100%" style="border-radius:15px;"/></td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 </div>
