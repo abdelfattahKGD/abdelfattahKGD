@@ -44,7 +44,7 @@
 <br/><br/>
 
 <!-- Simple Glow Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,50:00f5d4,100:transparent&section=footer" width="100%" alt="Glow Line" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,50:4E1380,100:transparent&section=footer" width="100%" alt="Glow Line" />
 
 </div>
 
@@ -153,13 +153,5 @@
 
 </div>
 
-<br/>
-
----
-
-<!-- 🦶 ULTRA-STYLIZED FOOTER -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f3460,30:16213e,70:1a1a2e,100:0a0e17&section=footer&reversal=true&animation=fadeIn" width="100%" alt="Footer Wave" />
 <br/>
 
