@@ -1,40 +1,38 @@
-<!-- Navigation Bar: Styled as Modern Buttons -->
-<div align="center">
+<!-- Navbar: Black Buttons (Reliable UI) -->
+<p align="center">
   <a href="#about"><img src="https://img.shields.io/badge/HOME-000000?style=for-the-badge&logoColor=white" /></a>
-  <a href="#skills"><img src="https://img.shields.io/badge/TECH_STACK-000000?style=for-the-badge&logoColor=white" /></a>
+  <a href="#tech"><img src="https://img.shields.io/badge/TECH_STACK-000000?style=for-the-badge&logoColor=white" /></a>
   <a href="#stats"><img src="https://img.shields.io/badge/ANALYTICS-000000?style=for-the-badge&logoColor=white" /></a>
   <a href="#connect"><img src="https://img.shields.io/badge/CONNECT-000000?style=for-the-badge&logoColor=white" /></a>
-</div>
+</p>
 
-<br>
-
-<!-- Hero Section: Dynamic Header + Banner -->
+<!-- Hero Section: High Contrast Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=ABDELFATTAH&fontSize=80&desc=Embedded%20System%20Engineer&descSize=25" width="100%"/>
-  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" style="border-radius: 10px; filter: grayscale(100%); border: 1px solid #000;"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&text=ABDELFATTAH&fontSize=70&fontColor=000000&desc=Embedded%20System%20Engineer%20%7C%20Designer&descSize=20&descColor=000000" width="100%"/>
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" style="border-radius: 10px; border: 1px solid #30363d; margin-top: 10px;"/>
 </div>
 
 <br id="about">
 
-<!-- Section 01: Profile -->
+<!-- Section 01: Profile (Graphic Designer & Engineer) -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <h2><img src="https://img.icons8.com/ios-filled/50/000000/user-male-circle.png" width="20"/> 01. PROFILE</h2>
-      <p><b>Engineer & Designer.</b> I specialize in building high-performance embedded systems with a focus on minimalist and functional design. My workflow integrates logic-driven programming with visual precision.</p>
-      <code>SYSTEM_STATUS: ONLINE</code>
+    <td width="65%" valign="top">
+      <h2><img src="https://img.icons8.com/ios-filled/50/ffffff/user-male-circle.png" width="20"/> 01. PROFILE</h2>
+      <p><b>Engineer by Skill, Designer by Heart.</b> I specialize in bridging the gap between robust embedded systems and elegant UI/UX designs. My focus is on creating high-performance, minimalist software and hardware solutions.</p>
+      <code>$ whoami --engineer --designer</code>
     </td>
-    <td width="40%" align="right">
-      <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/v1.gif?raw=true" width="200" style="filter: grayscale(100%); border: 1px solid #000; border-radius: 10px;"/>
+    <td width="35%" align="right">
+      <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/v1.gif?raw=true" width="220" style="border-radius: 10px; border: 1px solid #ffffff;"/>
     </td>
   </tr>
 </table>
 
-<br id="skills">
+<br id="tech">
 
-<!-- Section 02: Skills Forge (Clean Grid) -->
-<h2><img src="https://img.icons8.com/ios-filled/50/000000/maintenance.png" width="20"/> 02. TECH STACK</h2>
-<div align="center">
+<!-- Section 02: Tech Stack (No-Nonsense Minimalist) -->
+<h2><img src="https://img.icons8.com/ios-filled/50/ffffff/settings.png" width="20"/> 02. TECH STACK</h2>
+<p align="center">
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
@@ -44,35 +42,41 @@
   <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/SOLIDWORKS-000000?style=for-the-badge&logo=solidworks&logoColor=white" />
   <img src="https://img.shields.io/badge/CI_CD-000000?style=for-the-badge&logo=github-actions&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
 
 <br id="stats">
 
-<!-- Section 03: Analytics -->
-<h2><img src="https://img.icons8.com/ios-filled/50/000000/bar-chart.png" width="20"/> 03. ANALYTICS</h2>
+<!-- Section 03: Modern Analytics -->
+<h2><img src="https://img.icons8.com/ios-filled/50/ffffff/line-chart.png" width="20"/> 03. ANALYTICS</h2>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdelfattahKGD&show_icons=true&theme=base&bg_color=ffffff&border_color=000000&text_color=000000&title_color=000000&border_radius=5" height="150px" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdelfattahKGD&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&border_radius=10" height="165px" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdelfattahKGD&layout=compact&theme=base&bg_color=ffffff&border_color=000000&text_color=000000&title_color=000000&border_radius=5" height="150px" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdelfattahKGD&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=ffffff&border_radius=10" height="165px" />
     </td>
   </tr>
 </table>
 
 <br id="connect">
 
-<!-- Section 04: Showcase -->
+<!-- Section 04: Project Gallery -->
+<h2><img src="https://img.icons8.com/ios-filled/50/ffffff/image.png" width="20"/> 04. SHOWCASE</h2>
 <table border="0" cellpadding="0" cellspacing="10" width="100%">
   <tr>
-    <td width="50%"><img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/Coffee%20in%20rain___.gif?raw=true" width="100%" style="filter: grayscale(100%); border: 1px solid #000; border-radius: 10px;"/></td>
-    <td width="50%"><img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/v1.gif?raw=true" width="100%" style="filter: grayscale(100%); border: 1px solid #000; border-radius: 10px;"/></td>
+    <td width="50%"><img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/Coffee%20in%20rain___.gif?raw=true" width="100%" style="border-radius: 10px; border: 1px solid #30363d;"/></td>
+    <td width="50%"><img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/v1.gif?raw=true" width="100%" style="border-radius: 10px; border: 1px solid #30363d;"/></td>
   </tr>
 </table>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" style="filter: invert(1); opacity: 0.1;"/>
+  <a href="https://linkedin.com/in/abdelfattah-khaled"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abdelfattahk719@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/1150076026"><img src="https://img.shields.io/badge/WHATSAPP-000000?style=flat&logo=whatsapp&logoColor=white" /></a>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" style="opacity: 0.3;"/>
 </div>
