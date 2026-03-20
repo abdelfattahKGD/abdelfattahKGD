@@ -1,7 +1,7 @@
 <!-- 🎭 DYNAMIC HERO SECTION -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8339B3&center=true&vCenter=true&width=700&height=70&lines=⚡+ABDELFATTAH+⚡;Embedded+System+Engineer;C+%7C+C%2B%2B+%7C+Python+%7C+ROS2;Building+Intelligent+Hardware" alt="Typing Effect Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00f5d4&center=true&vCenter=true&width=700&height=70&lines=⚡+ABDELFATTAH+⚡;Embedded+System+Engineer;C+%7C+C%2B%2B+%7C+Python+%7C+ROS2;Building+Intelligent+Hardware" alt="Typing Effect Header" />
 
 <br/>
 </div>
@@ -32,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,python,git,bash,linux,cmake,vscode&theme=dark&perline=10" alt="Core Skills" />
 
 ### 🎯 Embedded Specialization
-<img src="https://img.shields.io/badge/🔹-STM32-00f5d4?style=flat-square" color="8339B3"/>
+<img src="https://img.shields.io/badge/🔹-STM32-00f5d4?style=flat-square" color=8339B3/>
 <img src="https://img.shields.io/badge/🔹-FreeRTOS-00f5d4?style=flat-square"/>
 <img src="https://img.shields.io/badge/🔹-ROS2-00f5d4?style=flat-square"/>
 <img src="https://img.shields.io/badge/🔹-KiCad-00f5d4?style=flat-square"/>
