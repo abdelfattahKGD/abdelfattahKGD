@@ -1,7 +1,7 @@
 <!-- 🎭 DYNAMIC HERO SECTION -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=800&color=00f5d4&center=true&vCenter=true&width=700&height=70&lines=⚡+ABDELFATTAH+⚡;+Embedded+System+Engineer;🧠+C+%7C+C+++%7C+Python+%7C+ROS2;🚀+Building+Intelligent+Hardware" alt="Typing Effect Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00f5d4&center=true&vCenter=true&width=700&height=70&lines=⚡+ABDELFATTAH+⚡;Embedded+System+Engineer;C+%7C+C%2B%2B+%7C+Python+%7C+ROS2;Building+Intelligent+Hardware" alt="Typing Effect Header" />
 
 <br/>
 
@@ -90,7 +90,7 @@
 
 <div align="center">
 
-| 🚀 Project | 📦 Tech Stack | 📊 Status |
+| 🚀 Project |  Tech Stack | 📊 Status |
 |-----------|--------------|-----------|
 | **Smart IoT Controller** | STM32 + FreeRTOS + MQTT | `🟢 Active` |
 | **ROS2 Navigation Node** | C++ + ROS2 + SLAM | `🟡 In Dev` |
@@ -183,16 +183,3 @@
 </pre>
 
 <br/>
-
-[![Visitor Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FabdelfattahKGD&count_bg=%2300f5d4&title_bg=%230a0e17&icon=github.svg&icon_color=white&title=👁+VISITS&edge_flat=true)](https://github.com/abdelfattahKGD)
-
-<br/>
-
-<b>🛠️ Crafted with passion by Abdelfattah</b> • <small>© 2026 All Rights Reserved</small>
-
-<br/><br/>
-
-<!-- Simple Sparkle Footer -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,25:00f5d4,50:ffffff,75:00f5d4,100:transparent&animation=fadeIn&section=footer" width="100%" alt="Sparkle Line" />
-
-</div>
