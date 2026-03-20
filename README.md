@@ -1,7 +1,7 @@
 <!-- 🎭 DYNAMIC HERO SECTION -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4E1380&center=true&vCenter=true&width=700&height=70&lines=⚡+ABDELFATTAH+⚡;Embedded+System+Engineer;C+%7C+C%2B%2B+%7C+Python+%7C+ROS2;Building+Intelligent+Hardware" alt="Typing Effect Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8339B3&center=true&vCenter=true&width=700&height=70&lines=⚡+ABDELFATTAH+⚡;Embedded+System+Engineer;C+%7C+C%2B%2B+%7C+Python+%7C+ROS2;Building+Intelligent+Hardware" alt="Typing Effect Header" />
 
 <br/>
 </div>
