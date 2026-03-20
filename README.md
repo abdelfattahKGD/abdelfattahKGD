@@ -62,29 +62,7 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-<!-- تم حذف زر Buy me a coffee بناءً على طلبك -->
-
-## 🖼️ Gallery
-<p align="center">مجموعة من الصور والمشاريع الخاصة بي</p>
-<table align="center" border="0" cellpadding="0" cellspacing="5">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/banner.gif?raw=true" width="220px" style="border-radius:10px;" alt="Image 1"/>
-    </td>
-    <td align="center">
-      <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/b2.gif" width="220px" style="border-radius:10px;" alt="Image 2"/>
-    </td>
-    <td align="center">
-      <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/b3.gif" width="220px" style="border-radius:10px;" alt="Image 3"/>
-    </td>
-  </tr>
-  <!-- يمكنك تكرار صف <tr> لزيادة الصور مستقبلاً -->
-</table>
-
-<br>
-
 <div align="center">
-  <!-- استخدمت رابط الصورة المباشر لضمان ظهور الـ Bottom Line -->
   <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/Coffee%20in%20rain___.gif?raw=true" alt="Bottom Line" width="100%" />
    <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/v1.gif?raw=true" alt="Bottom Line" width="100%" />
 </div>
