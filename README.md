@@ -72,7 +72,7 @@
       <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/banner.gif?raw=true" width="220px" style="border-radius:10px;" alt="Image 1"/>
     </td>
     <td align="center">
-      <img src="https://i.pinimg.com/originals/c9/a7/63/c9a76315efc1c3f97155e9b897042f9e.gif" width="220px" style="border-radius:10px;" alt="Image 2"/>
+      <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/b2.gif" width="220px" style="border-radius:10px;" alt="Image 2"/>
     </td>
     <td align="center">
       <img src="https://i.pinimg.com/originals/18/74/d5/1874d538e3e4a3e72c8421b8c0a76a54.gif" width="220px" style="border-radius:10px;" alt="Image 3"/>
