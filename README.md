@@ -1,14 +1,25 @@
-<div align="right">
-  <p>
-    <a href="#about"><img src="https://img.shields.io/badge/01.%20Home-000000?style=flat&logoColor=white" /></a> &nbsp;&nbsp;
-    <a href="#tech"><img src="https://img.shields.io/badge/02.%20Stack-000000?style=flat&logoColor=white" /></a> &nbsp;&nbsp;
-    <a href="#stats"><img src="https://img.shields.io/badge/03.%20Stats-000000?style=flat&logoColor=white" /></a> &nbsp;&nbsp;
-    <a href="#connect"><img src="https://img.shields.io/badge/04.%20Contact-000000?style=flat&logoColor=white" /></a>
-  </p>
-  <h1 align="left" style="margin-top: -85px; color: white; padding-left: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    ABDELFATTAH <br>
-    <span style="font-size: 5px; font-weight: 300; opacity: 0.8;">Embedded Systems Engineer | Designer</span>
-  </h1>
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- الاسم والوظيفه ناحية الشمال -->
+    <td align="left" valign="middle">
+      <h3 style="margin: 0;">ABDELFATTAH</h3>
+      <p style="margin: 0; font-size: 12px; opacity: 0.7;">Embedded Systems Engineer | Designer</p>
+    </td>
+    <!-- الأقسام ناحية اليمين -->
+    <td align="right" valign="middle">
+      <a href="#about"><img src="https://img.shields.io/badge/01.%20Home-000000?style=flat&logoColor=white" /></a>
+      <a href="#tech"><img src="https://img.shields.io/badge/02.%20Stack-000000?style=flat&logoColor=white" /></a>
+      <a href="#stats"><img src="https://img.shields.io/badge/03.%20Stats-000000?style=flat&logoColor=white" /></a>
+      <a href="#connect"><img src="https://img.shields.io/badge/04.%20Contact-000000?style=flat&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<hr style="border: 0.5px solid #30363d; margin-top: 10px;">
+
+<!-- صوره البانر الهوم -->
+<div align="center" id="home">
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" style="border-radius: 10px; filter: grayscale(100%);"/>
 </div>
 
 <div align="center" id="home">
