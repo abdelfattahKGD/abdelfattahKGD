@@ -24,24 +24,37 @@
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
+<div id="tech">
+  <h2><img src="https://img.icons8.com/ios-filled/50/000000/maintenance.png" width="20"/> 02. TECH STACK</h2>
+  <p align="center">
+    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/ROS2-000000?style=for-the-badge&logo=ros&logoColor=white" />
+    <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/SOLIDWORKS-000000?style=for-the-badge&logo=solidworks&logoColor=white" />
+    <img src="https://img.shields.io/badge/CI_CD-000000?style=for-the-badge&logo=github-actions&logoColor=white" />
+  </p>
+</div>
 
+<br><br>
 
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
-
-<p align="center">
-  <a href="https://github.com/abdelfattahKGD">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdelfattahKGD&langs_count=8&layout=compact&theme=monokai&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+<div id="stats">
+  <h2><img src="https://img.icons8.com/ios-filled/50/000000/ bar-chart.png" width="20"/> 03. ANALYTICS</h2>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdelfattahKGD&show_icons=true&theme=base&bg_color=ffffff&border_color=000000&text_color=000000&title_color=000000&border_radius=5" height="150px" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdelfattahKGD&layout=compact&theme=base&bg_color=ffffff&border_color=000000&text_color=000000&title_color=000000&border_radius=5" height="150px" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🔗 Connect with Me
 <p align="center"><a href="www.linkedin.com/in/abdelfattah-khaled" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/1150076026" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:abdelfattahk719@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
@@ -51,13 +64,6 @@
 </p>
 
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
-<div align="center">
-  <p><b>LET'S CONNECT</b></p>
-  <a href="https://linkedin.com/in/abdelfattah-khaled"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abdelfattahk719@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/1150076026"><img src="https://img.shields.io/badge/WHATSAPP-000000?style=flat&logo=whatsapp&logoColor=white" /></a>
-</div>
 
 
 
