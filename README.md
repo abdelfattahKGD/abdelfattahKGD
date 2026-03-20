@@ -29,7 +29,7 @@
 <div align="center">
 
 ### ⚙️ Core Arsenal
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,bash,linux,cmake,vscode,arm&theme=dark&perline=10" alt="Core Skills" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,bash,linux,cmake,vscode&theme=dark&perline=10" alt="Core Skills" />
 
 ### 🎯 Embedded Specialization
 <img src="https://img.shields.io/badge/🔹-STM32-00f5d4?style=flat-square"/>
