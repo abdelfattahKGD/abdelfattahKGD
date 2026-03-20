@@ -64,7 +64,7 @@
 </p>
 
 <div id="connect">
-  <h2><img src="https://img.icons8.com/ios-filled/50/000000/image.png" width="20"/> 04. SHOWCASE</h2>
+  <h2><img src="https://img.icons8.com/ios-filled/50/000000/image.png" width="20"/> 04. Hello World</h2>
   <table border="0" cellpadding="0" cellspacing="10" width="100%">
     <tr>
       <td width="50%"><img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/Coffee%20in%20rain___.gif?raw=true" width="100%" style="filter: grayscale(100%); border: 1px solid #000; border-radius: 10px;"/></td>
