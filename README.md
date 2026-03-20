@@ -4,10 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00f5d4&center=true&vCenter=true&width=700&height=70&lines=⚡+ABDELFATTAH+⚡;Embedded+System+Engineer;C+%7C+C%2B%2B+%7C+Python+%7C+ROS2;Building+Intelligent+Hardware" alt="Typing Effect Header" />
 
 <br/>
-
-<!-- 🌊 Animated Wave Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a0e17,30:1a1a2e,70:16213e,100:0f3460&section=header&reversal=false&animation=fadeIn" width="100%" alt="Wave Divider" />
-
 </div>
 
 <!-- 👋 INTRO CARD -->
