@@ -63,7 +63,13 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
-
+<div id="connect">
+  <h2><img src="https://img.icons8.com/ios-filled/50/000000/image.png" width="20"/> 04. SHOWCASE</h2>
+  <table border="0" cellpadding="0" cellspacing="10" width="100%">
+    <tr>
+      <td width="50%"><img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/Coffee%20in%20rain___.gif?raw=true" width="100%" style="filter: grayscale(100%); border: 1px solid #000; border-radius: 10px;"/></td>
+      <td width="50%"><img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/v1.gif?raw=true" width="100%" style="filter: grayscale(100%); border: 1px solid #000; border-radius: 10px;"/></td>
+    </tr>
+  </table>
+</div>
 
