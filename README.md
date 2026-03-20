@@ -6,36 +6,27 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/9d/23/e2/9d23e215f9498acb415e982d56a0f7c1.gif" alt="Pixel Art Banner - Windows" width="100%" style="border-radius: 10px;"/>
-</div>
-
-<br>
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
-
 <p align="center">
   <a href="https://github.com/abdelfattahKGD">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdelfattahKGD&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="abdelfattahKGD's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=abdelfattahKGD&theme=monokai&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=abdelfattahKGD&theme=monokai&hide_border=true&cache_seconds=86400" alt="abdelfattahKGD's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=abdelfattahKGD&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=abdelfattahKGD&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="ABDELFATTAH's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelfattahKGD&theme=monokai&radius=10" alt="Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelfattahKGD&theme=monokai&radius=10" alt="abdelfattahKGD's Activity Graph" />
 </p>
-
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
-<br>
 
 ## 🛠️ Languages & Tools
-
-<img align="right" width="300" src="https://i.pinimg.com/originals/c9/a7/63/c9a76315efc1c3f97155e9b897042f9e.gif" alt="Pixel Setup" style="border-radius: 10px; margin-left: 10px;"/>
 
 > ## Programming Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
@@ -52,8 +43,6 @@
   </a>
 </p>
 
-<br clear="all"> <img align="left" width="300" src="https://i.pinimg.com/originals/18/74/d5/1874d538e3e4a3e72c8421b8c0a76a54.gif" alt="Pixel Microscope" style="border-radius: 10px; margin-right: 10px;"/>
-
 ## 🔗 Connect with Me
 <p align="center"><a href="www.linkedin.com/in/abdelfattah-khaled" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/1150076026" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:abdelfattahk719@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
@@ -61,12 +50,9 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/c7/e9/8b/c7e98bf2465476a8d05541c88147d3c0.gif" alt="Pixel Night Coding" style="border-radius: 10px; margin-left: 10px;"/>
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-<br>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
-<br clear="all"> <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+<div align="center">
+  <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/banner.gif" alt="Bottom Line" width="100%" />
 </div>
+
