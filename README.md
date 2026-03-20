@@ -8,9 +8,6 @@
 
 <!-- 👋 INTRO CARD -->
 <div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=abdelfattahKGD&label=👁+PROFILE+VIEWS&color=00f5d4&style=flat-square&logo=github&logoColor=white)](https://github.com/abdelfattahKGD)
-
 <br/><br/>
 
 > 🎓 **Mechatronics Engineer** | 🔬 **Embedded Systems Architect** | 🛠️ **IoT & Automation Developer**  
