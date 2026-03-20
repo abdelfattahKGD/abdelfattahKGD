@@ -16,7 +16,7 @@
 <br/>
 
 <!-- 🎬 Cinematic Hero Banner -->
-<img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/EGZWiC.gif" alt="Hero Banner" width="100%" style="border-radius: 16px; border: 3px solid #00f5d4; box-shadow: 0 0 30px rgba(0,245,212,0.4);" />
+<img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/YellowSSRSukunaArt1.gif" alt="Hero Banner" width="100%" style="border-radius: 16px; border: 3px solid #00f5d4; box-shadow: 0 0 30px rgba(0,245,212,0.4);" />
 
 </div>
 
