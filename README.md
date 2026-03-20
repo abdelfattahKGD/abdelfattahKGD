@@ -6,36 +6,54 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/abdelfattahKGD">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdelfattahKGD&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="abdelfattahKGD's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=abdelfattahKGD&theme=monokai&hide_border=true&cache_seconds=86400" alt="abdelfattahKGD's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=abdelfattahKGD&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="ABDELFATTAH's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelfattahKGD&theme=monokai&radius=10" alt="abdelfattahKGD's Activity Graph" />
-</p>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+  <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/banner.gif?raw=true" alt="Main Banner" width="100%" style="border-radius: 15px; border: 1px solid #a371f7;"/>
 </div>
 
+<br>
+
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <a href="https://github.com/abdelfattahKGD">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdelfattahKGD&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=abdelfattahKGD&theme=monokai&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=abdelfattahKGD&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Trophies" />
+</p>
+
+<div align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelfattahKGD&theme=monokai&radius=10" alt="Activity Graph" width="100%" />
+</div>
+
+<br>
 
 ## 🛠️ Languages & Tools
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="60%">
+        <h3>Programming Languages</h3>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" /> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
+        
+        <h3>Tools & DevOps</h3>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45" />
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="45" height="45" />
+      </td>
+      <td width="40%" align="right">
+        <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/banner.gif?raw=true" width="250" style="border-radius: 10px; border: 1px solid #a371f7;"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+<br>
 
 <p align="center">
   <a href="https://github.com/abdelfattahKGD">
@@ -43,16 +61,12 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
-<p align="center"><a href="www.linkedin.com/in/abdelfattah-khaled" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/1150076026" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:abdelfattahk719@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+## 🔗 Connect & Play
 
 <div align="center">
-  <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/banner.gif" alt="Bottom Line" width="100%" />
-</div>
-
+  <p>
+    <a href="https://www.linkedin.com/in/abdelfattah-khaled" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="45" height="45" style="margin: 0 10px;"/></a>
+    <a href="https://wa.me/1150076026" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" width="45" height="45" style="margin: 0 10px;"/></a>
+    <a href="mailto:abdelfattahk719@gmail.com" target="_blank"><img src="
