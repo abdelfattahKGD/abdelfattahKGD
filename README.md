@@ -1,120 +1,143 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=ABDELFATTAH&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Embedded%20System%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-</div>
-
-<p align="center">
+  
+  <br>
+  
   <a href="https://komarev.com/ghpvc/?username=abdelfattahKGD">
-    <img src="https://komarev.com/ghpvc/?username=abdelfattahKGD&label=Profile%20views&color=00FFFF&style=flat-square" alt="abdelfattahKGD's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=abdelfattahKGD&label=Profile%20views&color=a371f7&style=for-the-badge" alt="abdelfattahKGD's profile views" />
   </a>
-</p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/banner.gif?raw=true" alt="Main Windows GIF" width="100%" style="border-radius: 15px; border: 2px solid #a371f7;" />
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
+## 📈 GitHub Diagnostics
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/abdelfattahKGD">
+          <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdelfattahKGD&cache_seconds=7200&layout=compact&theme=radical&border_radius=10&show_icons=true" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center">
+        <img height="195" src="https://streak-stats.demolab.com/?user=abdelfattahKGD&theme=radical&hide_border=true&border_radius=10&cache_seconds=86400" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelfattahKGD&theme=radical&radius=10&height=300" alt="Activity Graph" width="100%"/>
+</div>
+
 <br>
 
-## 📊 Matrix Analytics & Diagnostics
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-<p align="center">
-  <a href="https://github.com/abdelfattahKGD">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdelfattahKGD&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="GitHub Stats" />
+## 🛠️ Tech Stack & Hardware Forge
+
+<p>I organize my technical expertise as a fully optimized system architecture.</p>
+
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="0" width="100%">
+    <tr>
+      <td width="60%" align="center" style="border: 1px solid #333; border-radius: 10px; padding: 15px; background: #0d0d0d;">
+        <h4 style="margin-top:0;">Main Arsenal</h4>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,raspberrypi,arduino,docker,git,vscode,github&theme=dark&perline=5" alt="Tech Stack" />
+        </a>
+      </td>
+      
+      <td width="40%" style="font-family: 'Fira Code', monospace; font-size: 14px; border: 1px solid #333; border-radius: 10px; padding: 15px; background: #0d0d0d;">
+        <b>C/C++</b><br>
+        <img src="https://geps.dev/progress/95?danger_color=a371f7&accent_color=00ffff&success_color=00ffff" alt="C Skill Level" width="100%"/>
+        <br>
+        <b>Embedded Systems / FreeRTOS</b><br>
+        <img src="https://geps.dev/progress/90?danger_color=a371f7&accent_color=00ffff&success_color=00ffff" alt="Embedded Skill Level" width="100%"/>
+        <br>
+        <b>KiCad PCB Design</b><br>
+        <img src="https://geps.dev/progress/85?danger_color=a371f7&accent_color=00ffff&success_color=00ffff" alt="KiCad Skill Level" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City Contribution Graph" width="90%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+## 🔗 Initialize Connection
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdelfattah-khaled" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="55" height="55" style="margin: 0 10px; hover: scale(1.1); transition: 0.3s;"/>
+  </a> 
+  <a href="https://wa.me/1150076026" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="55" height="55" style="margin: 0 10px;"/>
+  </a> 
+  <a href="mailto:abdelfattahk719@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="55" height="55" style="margin: 0 10px;"/>
   </a>
-  <img src="https://streak-stats.demolab.com/?user=abdelfattahKGD&theme=monokai&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=abdelfattahKGD&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelfattahKGD&theme=monokai&radius=10" alt="Activity Graph" />
-</p>
-
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## 🛠️ The Tech Forge
-
-<p>My toolkit for shaping hardware and software landscapes.</p>
-
-<table border="0" cellpadding="10" cellspacing="0" align="center">
-  <tr>
-    <td align="center">
-      <b>[ Programming Languages ]</b><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />
-    </td>
-    <td align="center">
-      <b>[ Tools & DevOps ]</b><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
-      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/abdelfattahKGD">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdelfattahKGD&langs_count=8&layout=compact&theme=monokai&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-<br clear="all">
+## 🖼️ My Digital Gallery
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <table border="0" cellpadding="10" cellspacing="0" align="center" style="border: 2px solid #a371f7; border-radius: 15px; background: #1a1a1a;">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://i.pinimg.com/originals/8c/df/87/8cdf87f4c02742962059345c228d447f.gif" alt="System Blueprint GIF" width="220" style="border-radius: 10px; border: 1px solid #333;"/><br>
+        <code style="color: #a371f7;">Embedded_Systems.sy</code>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://i.pinimg.com/originals/a0/0a/6d/a00a6d5dfb0cc611ef421fcb171e54c8.gif" alt="Hardware Workshop GIF" width="220" style="border-radius: 10px; border: 1px solid #333;"/><br>
+        <code style="color: #a371f7;">Hardware_Forge.sy</code>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://i.pinimg.com/originals/2b/86/e1/2b86e11883395b0bc7dc36ae719d2b7d.gif" alt="Circuit Diagnostics GIF" width="220" style="border-radius: 10px; border: 1px solid #333;"/><br>
+        <code style="color: #a371f7;">Circuit_Design.sy</code>
+      </td>
+    </tr>
+    </table>
 </div>
 
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="www.linkedin.com/in/abdelfattah-khaled" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a>
-  <a href="https://wa.me/1150076026" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a>
-  <a href="mailto:abdelfattahk719@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
-<br clear="all">
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-## 🖼️ Projects Gallery
-
-<p>A visual showcase of my hardware designs and technical concepts.</p>
-
-<table border="0" cellpadding="5" cellspacing="0" align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/PLACEHOLDER_1.gif?raw=true" alt="Gallery Image 1" style="width: 200px; height: 200px; border-radius: 10px; border: 2px solid #a371f7; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);"/>
-    </td>
-    <td align="center">
-      <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/PLACEHOLDER_2.gif?raw=true" alt="Gallery Image 2" style="width: 200px; height: 200px; border-radius: 10px; border: 2px solid #a371f7; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);"/>
-    </td>
-    <td align="center">
-      <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/PLACEHOLDER_3.gif?raw=true" alt="Gallery Image 3" style="width: 200px; height: 200px; border-radius: 10px; border: 2px solid #a371f7; box-shadow: 2px 2px 10px rgba(0,0,0,0.5);"/>
-    </td>
-  </tr>
-</table>
-
-<br>
+<br><br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a371f7&height=50&section=footer" width="100%"/>
 </div>
