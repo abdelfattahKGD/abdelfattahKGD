@@ -118,7 +118,7 @@
 
 ---
 
-## 🎨 CREATIVE GALLERY
+## Hello World
 
 <div align="center">
 
@@ -161,17 +161,5 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f3460,30:16213e,70:1a1a2e,100:0a0e17&section=footer&reversal=true&animation=fadeIn" width="100%" alt="Footer Wave" />
-
 <br/>
 
-<pre style="color: #00f5d4; font-family: 'Courier New', monospace; font-size: 9px; line-height: 1.2;">
-   ╔══════════════════════════════════════════════════════╗
-   ║    ABDELFATTAH  |  EMBEDDED SYSTEMS ENGINEER  ⚡  ║
-   ║  ────────────────────────────────────────────────  ║
-     🔧  C • C++ • Python • STM32 • ROS2 • IoT  🔧    ║
-   ║  🧠  Firmware • RTOS • PCB • Automation • AI   🧠  ║
-   ║  🚀  "Hardware is my canvas, code is my brush"  🚀  ║
-   ╚══════════════════════════════════════════════════════╝
-</pre>
-
-<br/>
