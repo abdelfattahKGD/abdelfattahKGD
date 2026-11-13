@@ -22,6 +22,7 @@ jobs:
       # 2. توليد كارت الإحصائيات (Stats)
       - uses: stats-organization/github-readme-stats-action@v2
         with:
+          card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&hide_border=true&bg_color=111827&title_color=00f5d4&icon_color=7b2cbf&text_color=c9d1d9&border_radius=14
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -29,10 +30,12 @@ jobs:
       # 3. توليد كارت اللغات (Top Languages)
       - uses: stats-organization/github-readme-stats-action@v2
         with:
+          card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=111827&title_color=00f5d4&text_color=c9d1d9&border_radius=14
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      # 5. رفع كل الصور لفرع output
+
+      # 4. رفع كل الصور لفرع output
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
