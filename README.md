@@ -69,8 +69,8 @@ protocols: Modbus, MQTT, I2C, SPI, UART
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdelfattahKGD&show_icons=true&theme=dark&hide_border=true&bg_color=111827&title_color=00f5d4&icon_color=7b2cbf&text_color=c9d1d9&border_radius=14&cache_seconds=7200" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelfattahKGD&layout=compact&hide_border=true&bg_color=111827&title_color=00f5d4&text_color=c9d1d9&border_radius=14&cache_seconds=7200" alt="Top languages" />
+<img height="165" src="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/stats.svg" alt="GitHub stats" />
+<img height="165" src="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/top-langs.svg" alt="Top languages" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/github-snake-dark.svg" />
