@@ -22,63 +22,8 @@ I design boards, write firmware and ship products under **Micro Forge**.
 
 > *"Turning silicon into intelligence, one line of C at a time."*
 
-```yaml
 role:      Embedded Systems Architect
 focus:     Firmware, PCB Design, IoT, Automation
 mcu:       STM32, ESP32, Arduino
 protocols: Modbus, MQTT, I2C, SPI, UART
-```
-
-</td>
-<td width="52%" align="center" valign="middle">
-<img src="./assets/terminal.svg" width="100%" alt="terminal" />
-</td>
-</tr>
-</table>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<img src="./assets/h-tech.svg" width="100%" alt="Tech Universe" />
-
-<div align="center">
-<img src="./assets/tech.svg" width="90%" alt="Tech stack: C, C++, Python, STM32, ESP32, FreeRTOS, ROS2, KiCad, Modbus, MQTT" />
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<img src="./assets/h-missions.svg" width="100%" alt="Current Missions" />
-
-<div align="center">
-<table>
-<tr>
-<td><img src="./assets/card1.svg" width="380" alt="Smart IoT Controller" /></td>
-<td><img src="./assets/card2.svg" width="380" alt="ROS2 Navigation Node" /></td>
-<td><img src="./assets/card3.svg" width="380" alt="PCB Design Library" /></td>
-</tr>
-<tr>
-<td><img src="./assets/card4.svg" width="380" alt="Automation Framework" /></td>
-<td><a href="https://github.com/abdelfattahKGD"><img src="./assets/card5.svg" width="380" alt="Micro Forge" /></a></td>
-<td><a href="mailto:abdelfattahk719@gmail.com"><img src="./assets/card6.svg" width="380" alt="Work With Me" /></a></td>
-</tr>
-</table>
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<img src="./assets/h-stats.svg" width="100%" alt="Live Stats" />
-
-<div align="center">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/activity-graph.svg" width="100%" alt="Activity Graph" />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<img src="./assets/footer.svg" width="100%" alt="Keep building" />
+</td> <td width="52%" align="center" valign="middle"> <img src="./assets/terminal.svg" width="100%" alt="terminal" /> </td> </tr> </table><img src="./assets/divider.svg" width="100%" alt="" /><img src="./assets/h-tech.svg" width="100%" alt="Tech Universe" /><div align="center"> <img src="./assets/tech.svg" width="90%" alt="Tech stack: C, C++, Python, STM32, ESP32, FreeRTOS, ROS2, KiCad, Modbus, MQTT" /> </div><img src="./assets/divider.svg" width="100%" alt="" /><img src="./assets/h-missions.svg" width="100%" alt="Current Missions" /><div align="center"> <table> <tr> <td><img src="./assets/card1.svg" width="380" alt="Smart IoT Controller" /></td> <td><img src="./assets/card2.svg" width="380" alt="ROS2 Navigation Node" /></td> <td><img src="./assets/card3.svg" width="380" alt="PCB Design Library" /></td> </tr> <tr> <td><img src="./assets/card4.svg" width="380" alt="Automation Framework" /></td> <td><a href="https://github.com/abdelfattahKGD"><img src="./assets/card5.svg" width="380" alt="Micro Forge" /></a></td> <td><a href="mailto:abdelfattahk719@gmail.com"><img src="./assets/card6.svg" width="380" alt="Work With Me" /></a></td> </tr> </table> </div><img src="./assets/divider.svg" width="100%" alt="" /><img src="./assets/h-stats.svg" width="100%" alt="Live Stats" /><div align="center"><!-- كروت الإحصائيات الأساسية --><img height="165" src="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/stats.svg" alt="GitHub stats" /> <img height="165" src="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/top-langs.svg" alt="Top languages" /><!-- جراف النشاط --><img src="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/activity-graph.svg" width="100%" alt="Activity Graph" /><!-- الثعبان --><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/github-snake.svg" /> <img alt="Contribution snake" src="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/github-snake-dark.svg" width="100%" /> </picture></div><img src="./assets/footer.svg" width="100%" alt="Keep building" /> ```
