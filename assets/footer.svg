@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160"><defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f5d4"/><stop offset="1" stop-color="#9d4edd"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0e17"/><stop offset="0.5" stop-color="#101a2e"/><stop offset="1" stop-color="#0a0e17"/></linearGradient>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#00f5d4" stroke-opacity="0.05"/></pattern>
+</defs>
+<rect width="1200" height="160" fill="url(#bg)"/><rect width="1200" height="160" fill="url(#grid)"/>
+<path d="M0,110 H380 L410,80 H790 L820,110 H1200" fill="none" stroke="#00f5d4" stroke-opacity="0.25" stroke-width="2"/>
+<path d="M0,110 H380 L410,80 H790 L820,110 H1200" fill="none" stroke="url(#g)" stroke-width="2.5" stroke-dasharray="90 1500" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="1590" to="0" dur="6s" repeatCount="indefinite"/></path>
+<text x="600" y="62" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="30" font-weight="700" fill="url(#g)" filter="url(#glow)" letter-spacing="6">KEEP BUILDING</text>
+<text x="600" y="138" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13" fill="#6b7280" letter-spacing="3">© MICRO FORGE</text></svg>

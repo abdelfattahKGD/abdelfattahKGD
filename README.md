@@ -1,153 +1,83 @@
-<!-- 🎭 DYNAMIC HERO SECTION -->
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00f5d4&center=true&vCenter=true&width=700&height=70&lines=⚡+ABDELFATTAH+⚡;Embedded+System+Engineer;C+%7C+C%2B%2B+%7C+Python+%7C+ROS2;Building+Intelligent+Hardware" alt="Typing Effect Header" />
-
-<br/>
+  <img src="./assets/banner.svg" width="100%" alt="Abdelfattah Khaled - Embedded Systems Architect" />
 </div>
 
-<!-- 👋 INTRO CARD -->
 <div align="center">
-<br/><br/>
 
-> 🎓 **Mechatronics Engineer** | 🔬 **Embedded Systems Architect** | 🛠️ **IoT & Automation Developer**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e17?style=for-the-badge&logo=linkedin&logoColor=00f5d4)](https://www.linkedin.com/in/abdelfattah-khaled)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0a0e17?style=for-the-badge&logo=whatsapp&logoColor=00f5d4)](https://wa.me/1150076026)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0e17?style=for-the-badge&logo=gmail&logoColor=00f5d4)](mailto:abdelfattahk719@gmail.com)
+![Followers](https://img.shields.io/github/followers/abdelfattahKGD?style=for-the-badge&color=0a0e17&labelColor=0a0e17&logo=github&logoColor=7b2cbf&label=followers)
+
+</div>
+
+<img src="./assets/h-about.svg" width="100%" alt="About" />
+
+<table width="100%">
+<tr>
+<td width="48%" valign="middle">
+
+**Mechatronics Engineer** working where hardware meets software.
+I design boards, write firmware and ship products under **Micro Forge**.
+
 > *"Turning silicon into intelligence, one line of C at a time."*
 
-<br/>
+```yaml
+role:      Embedded Systems Architect
+focus:     Firmware, PCB Design, IoT, Automation
+mcu:       STM32, ESP32, Arduino
+protocols: Modbus, MQTT, I2C, SPI, UART
+```
 
-<!-- 🎬 Cinematic Hero Banner -->
-<img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/YellowSSRSukunaArt1.gif" alt="Hero Banner" width="100%" style="border-radius: 16px; border: 3px solid #00f5d4; box-shadow: 0 0 30px rgba(0,245,212,0.4);" />
-
-</div>
-
-<br/>
-
----
-
-## 🧠 TECH UNIVERSE
-
-<div align="center">
-
-### ⚙️ Core Arsenal
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,bash,linux,cmake,vscode&theme=dark&perline=10" alt="Core Skills" />
-
-### 🎯 Embedded Specialization
-<img src="https://img.shields.io/badge/🔹-STM32-00f5d4?style=flat-square" color=8339B3/>
-<img src="https://img.shields.io/badge/🔹-FreeRTOS-00f5d4?style=flat-square"/>
-<img src="https://img.shields.io/badge/🔹-ROS2-00f5d4?style=flat-square"/>
-<img src="https://img.shields.io/badge/🔹-KiCad-00f5d4?style=flat-square"/>
-<img src="https://img.shields.io/badge/🔹-PlatformIO-00f5d4?style=flat-square"/>
-<img src="https://img.shields.io/badge/🔹-Modbus-00f5d4?style=flat-square"/>
-<img src="https://img.shields.io/badge/🔹-I2C_SPI_UART-00f5d4?style=flat-square"/>
-<img src="https://img.shields.io/badge/🔹-PCB_Design-00f5d4?style=flat-square"/>
-
-<br/><br/>
-</div>
-
----
-
-## 📊 LIVE STATS DASHBOARD
-
-<div align="center">
-
-<table border="0" cellpadding="20" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=abdelfattahKGD&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e17&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&border_radius=12&cache_seconds=7200" height="170" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=abdelfattahKGD&theme=dark&hide_border=true&background=0a0e17&stroke=00f5d4&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&cache_seconds=86400" height="170" alt="Streak Stats" />
-    </td>
-  </tr>
+</td>
+<td width="52%" align="center" valign="middle">
+<img src="./assets/terminal.svg" width="100%" alt="terminal" />
+</td>
+</tr>
 </table>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<!-- 📈 Activity Graph with Glow -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelfattahKGD&theme=react-dark&bg_color=0a0e17&color=00f5d4&line=00f5d4&point=ffffff&area=true&hide_border=true&radius=12&cache_seconds=86400" alt="Contribution Graph" width="100%" style="border-radius: 12px;" />
-
-<br/>
-
-<!-- 🏆 Trophy Case -->
-<img src="https://trophy.ryglcloud.net/?username=abdelfattahKGD&theme=dark&no-frame=true&row=2&column=4&margin-w=8&margin-h=8&no-bg=true&cache_seconds=86400" alt="Trophies" width="100%" />
-
-</div>
-
----
-
-## 🎯 CURRENT MISSIONS
+<img src="./assets/h-tech.svg" width="100%" alt="Tech Universe" />
 
 <div align="center">
-
-| 🚀 Project |  Tech Stack | 📊 Status |
-|-----------|--------------|-----------|
-| **Smart IoT Controller** | STM32 + FreeRTOS + MQTT | `🟢 Active` |
-| **ROS2 Navigation Node** | C++ + ROS2 + SLAM | `🟡 In Dev` |
-| **PCB Design Library** | KiCad + Custom Footprints | `🟢 Active` |
-| **Automation Framework** | Python + Modbus + PLC | `🔜 Coming Soon` |
-
-<br/>
-
-<!-- Progress Bar -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:transparent,30:00f5d4,70:7b2cbf,100:transparent&animation=fadeIn&section=footer" width="100%" alt="Progress Bar" />
-
+<img src="./assets/tech.svg" width="90%" alt="Tech stack: C, C++, Python, STM32, ESP32, FreeRTOS, ROS2, KiCad, Modbus, MQTT" />
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🔗 CONNECT & COLLABORATE
-
-<div align="center">
-
-### 🌐 Let's Build Something Amazing Together
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e17)](https://www.linkedin.com/in/abdelfattah-khaled)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0e17)](https://wa.me/1150076026)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e17)](mailto:abdelfattahk719@gmail.com)
-
-<br/><br/>
-
-<!-- 🎮 Interactive Space Shooter Graph -->
-<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space Shooter Contributions" width="100%" style="border-radius: 16px; border: 2px solid #00f5d4;" />
-
-</div>
-
----
-
-## 🌍HelloWorld
+<img src="./assets/h-missions.svg" width="100%" alt="Current Missions" />
 
 <div align="center">
-
-<table border="0" cellpadding="15" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/Coffee%20in%20rain___.gif?raw=true" width="95%" style="border: 3px solid #00f5d4; border-radius: 16px; box-shadow: 0 8px 25px rgba(0,245,212,0.35);" alt="Creative Art 1" />
-      <br/><small><i>"Coffee & Code"</i></small>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/abdelfattahKGD/abdelfattahKGD/blob/main/v1.gif?raw=true" width="95%" style="border: 3px solid #7b2cbf; border-radius: 16px; box-shadow: 0 8px 25px rgba(123,44,191,0.35);" alt="Creative Art 2" />
-      <br/><small><i>"Embedded Dreams"</i></small>
-    </td>
-  </tr>
+<table>
+<tr>
+<td><img src="./assets/card1.svg" width="380" alt="Smart IoT Controller" /></td>
+<td><img src="./assets/card2.svg" width="380" alt="ROS2 Navigation Node" /></td>
+<td><img src="./assets/card3.svg" width="380" alt="PCB Design Library" /></td>
+</tr>
+<tr>
+<td><img src="./assets/card4.svg" width="380" alt="Automation Framework" /></td>
+<td><a href="https://github.com/abdelfattahKGD"><img src="./assets/card5.svg" width="380" alt="Micro Forge" /></a></td>
+<td><a href="mailto:abdelfattahk719@gmail.com"><img src="./assets/card6.svg" width="380" alt="Work With Me" /></a></td>
+</tr>
 </table>
-
-<br/>
-
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 💬 QUOTE OF THE DAY
+<img src="./assets/h-stats.svg" width="100%" alt="Live Stats" />
 
 <div align="center">
 
-> 🧠 *"In embedded systems, every byte matters, every cycle counts, and every bug is a puzzle waiting to be solved."*
-> 
-> <br/>
-> 
-> <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0a0e17,100:16213e&text=⚡+Keep+Building+⚡&fontSize=24&fontColor=00f5d4&fontAlignY=35&animation=fadeIn" width="100%" alt="Quote Banner" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdelfattahKGD&show_icons=true&theme=dark&hide_border=true&bg_color=111827&title_color=00f5d4&icon_color=7b2cbf&text_color=c9d1d9&border_radius=14&cache_seconds=7200" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelfattahKGD&layout=compact&hide_border=true&bg_color=111827&title_color=00f5d4&text_color=c9d1d9&border_radius=14&cache_seconds=7200" alt="Top languages" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
-<br/>
-
+<img src="./assets/footer.svg" width="100%" alt="Keep building" />
