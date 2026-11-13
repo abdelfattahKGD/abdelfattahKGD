@@ -69,8 +69,6 @@ protocols: Modbus, MQTT, I2C, SPI, UART
 
 <div align="center">
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelfattahKGD&theme=react-dark&bg_color=111827&color=00f5d4&line=7b2cbf&point=00f5d4&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdelfattahKGD/abdelfattahKGD/output/github-snake.svg" />
