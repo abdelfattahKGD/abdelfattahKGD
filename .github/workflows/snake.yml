@@ -32,19 +32,6 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=111827&title_color=00f5d4&text_color=c9d1d9&border_radius=14
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      # 4. توليد جراف النشاط (Activity Graph) - الجديد
-      - uses: Ashutosh00710/github-readme-activity-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          path: dist/activity-graph.svg
-          theme: react-dark
-          bg_color: "111827"
-          color: "00f5d4"
-          line: "7b2cbf"
-          point: "00f5d4"
-
       # 5. رفع كل الصور لفرع output
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
